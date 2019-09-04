@@ -147,8 +147,8 @@ USE database_name
 11. [Bcrypt](https://www.npmjs.com/package/bcrypt)
 
 ## Author(s): 
-1. [Minori Hashimoto](https://github.com/minori-fh)
+1. [Adam Lehrer](https://github.com/AdamSL394)
 2. Jake Dudum
-3. Adam Lehrer
+3. Minori Hashimoto
 4. Darryl Tolentino 
 
